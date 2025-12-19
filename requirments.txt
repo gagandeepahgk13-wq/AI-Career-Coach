@@ -3,7 +3,6 @@ python-dotenv
 openai
 pandas
 requests
-load_dotenv
 pandas
 Groq
 px
